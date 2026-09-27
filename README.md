@@ -1,8 +1,5 @@
-# Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
-
-**Nama:** Salzabila Triana Said
-**Email:** strianasaid@gmail.com
-**Id Dicoding:** zalana9
+# Student Dropout Prediction (Prediksi Putus Studi Mahasiswa)
+Proyek data science end-to-end untuk memprediksi status kelulusan mahasiswa (Dropout / Enrolled / Graduate) bagi **Jaya Jaya Institut**, sebuah institusi pendidikan tinggi yang menghadapi tingkat dropout sebesar 32%. Proyek ini mencakup business understanding, EDA, machine learning modeling, business dashboard, hingga aplikasi prediksi yang di-deploy.
 
 ## Business Understanding
 Jaya Jaya Institut adalah institusi pendidikan perguruan tinggi yang telah berdiri sejak tahun 2000 dan telah mencetak banyak lulusan dengan reputasi baik. Namun, institusi ini menghadapi masalah tingkat **dropout** (siswa tidak menyelesaikan pendidikan) yang cukup tinggi, sekitar **32% dari 4.424 siswa** pada data historis yang dianalisis. Angka dropout yang tinggi berdampak pada reputasi institusi, efisiensi biaya operasional pendidikan, dan tingkat kelulusan yang menjadi salah satu indikator kualitas institusi.
@@ -23,6 +20,7 @@ Agar dapat memberikan bimbingan khusus secara tepat waktu, Jaya Jaya Institut me
 6. **Rekomendasi action items** bagi manajemen berdasarkan insight yang ditemukan.
 
 ### Persiapan
+4.424 data mahasiswa dengan fitur meliputi data demografis, latar belakang sosial-ekonomi, performa akademik semester 1 & 2, serta status keuangan (tunggakan SPP, status debtor).
 
 Sumber data: [Students' Performance Dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance) — `data.csv` (4.424 baris, 37 kolom, disertakan dalam folder proyek ini).
 
@@ -99,3 +97,9 @@ Dengan sistem deteksi dini ini, Jaya Jaya Institut dapat mengidentifikasi siswa 
 - **Perluas atau permudah akses program beasiswa dan skema keringanan/cicilan SPP** bagi siswa dengan status debtor atau pembayaran SPP yang tertunggak, mengingat faktor finansial terbukti berkontribusi besar terhadap dropout.
 - **Lakukan evaluasi berkala terhadap siswa berusia lebih tua saat pendaftaran (non-tradisional)**, karena kelompok ini menunjukkan pola risiko yang berbeda dan mungkin membutuhkan dukungan tambahan seperti fleksibilitas jadwal kuliah.
 - **Integrasikan prototype machine learning ini ke dalam sistem akademik (SIAKAD)** yang sudah ada agar prediksi dapat diakses langsung oleh staf akademik tanpa perlu berpindah aplikasi, dan lakukan retraining model secara berkala (misalnya tiap tahun ajaran) menggunakan data terbaru agar akurasi model tetap terjaga.
+
+## 👤 Author
+**Salzabila Triana Said**
+[LinkedIn](https://www.linkedin.com/in/salzabilatrianasaid) | strianasaid@gmail.com
+---
+*Proyek ini merupakan submission akhir untuk kelas "Belajar Penerapan Data Science" — Dicoding Indonesia.*
