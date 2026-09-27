@@ -98,8 +98,7 @@ Dengan sistem deteksi dini ini, Jaya Jaya Institut dapat mengidentifikasi siswa 
 - **Lakukan evaluasi berkala terhadap siswa berusia lebih tua saat pendaftaran (non-tradisional)**, karena kelompok ini menunjukkan pola risiko yang berbeda dan mungkin membutuhkan dukungan tambahan seperti fleksibilitas jadwal kuliah.
 - **Integrasikan prototype machine learning ini ke dalam sistem akademik (SIAKAD)** yang sudah ada agar prediksi dapat diakses langsung oleh staf akademik tanpa perlu berpindah aplikasi, dan lakukan retraining model secara berkala (misalnya tiap tahun ajaran) menggunakan data terbaru agar akurasi model tetap terjaga.
 
-## 👤 Author
-**Salzabila Triana Said**
-[LinkedIn](https://www.linkedin.com/in/salzabilatrianasaid) | strianasaid@gmail.com
+## Author
+*Salzabila Triana Said* [LinkedIn](https://www.linkedin.com/in/salzabilatrianasaid) | strianasaid@gmail.com
 ---
 *Proyek ini merupakan submission akhir untuk kelas "Belajar Penerapan Data Science" — Dicoding Indonesia.*
